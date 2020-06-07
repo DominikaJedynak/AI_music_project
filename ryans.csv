@@ -1,4 +1,4 @@
-number,liczby_nut,dokladnosci_tonacji,rozstawy_dzwiekow,pauzy
+number,liczby_nut,dokladnosci_tonacji,rozstawy_dzwiekow,pauzy,liczby_parti,dlugosci_utworow,metrum,liczby_uzytych_metrum,liczby_uzytych_tonacji,najwyzsze_dzwieki,najnizsze_dzwieki,
 0,192,0.8523088449754727,15,0
 1,115,0.8069142515450737,18,2
 2,136,0.7231913801887271,15,0
