@@ -1,4 +1,4 @@
-,liczby_nut,liczby_parti,dlugosci_utworow,metrum,liczby_uzytych_metrum,liczby_uzytych_tonacji,najwyzsze_dzwieki,najnizsze_dzwieki,dokladnosci_tonacji,rozstawy_dzwiekow,pauzy
+number,liczby_nut,liczby_parti,dlugosci_utworow,metrum,liczby_uzytych_metrum,liczby_uzytych_tonacji,najwyzsze_dzwieki,najnizsze_dzwieki,dokladnosci_tonacji,rozstawy_dzwiekow,pauzy
 0,587,5,360.0,4/2,1,1,79,48,0.8763229716536952,19,74
 1,627,5,376.0,4/2,1,1,79,48,0.8447359886339451,19,87
 2,513,5,288.0,4/2,1,1,79,48,0.8658418020983609,19,51
