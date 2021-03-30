@@ -3,9 +3,9 @@ The aim of this project was to built a simple network for classifying musical wo
 
 # Content 
 The repository consist of three pdf files with sampled music sheet from each composer. 
-/There is also a "data_collecting.py" file used to create three .csv files with the data ready to be analised.
-\n The main file is the "music.ipynb" file, in which I preprocess the data and experiment with classification models.
+There is also a "data_collecting.py" file used to create three .csv files with the data ready to be analised.
+The main file is the "music.ipynb" file, in which I preprocess the data and experiment with classification models.
 
 # Technologies
 Project was created with Python 3.8.
-\The library used to collect the data about works of those composers was "music21".
+The library used to collect the data about works of those composers was "music21".
